@@ -1,0 +1,1 @@
+# fin_new_stock_impct
