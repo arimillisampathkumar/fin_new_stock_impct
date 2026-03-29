@@ -17,6 +17,7 @@ Run the following command in your terminal or a Jupyter cell:
 Bash
 pip install torch transformers yfinance xgboost textblob pandas scikit-learn matplotlib
 
+
 ## 3. Execution Steps
 Data Ingestion: The script uses yfinance to automatically pull data for the stratified equity cohort (Tencent, HSBC, AIA, Meituan) [1].
 
